@@ -1,4 +1,4 @@
-FROM centos:latest
+FROM registry.dataos.io/library/centos:7
 
 MAINTAINER Humble Chirammal hchiramm@redhat.com
 
